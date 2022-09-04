@@ -10,6 +10,6 @@ grade:
         --student-repo $CI_PROJECT_DIR
         --original-repo /opt/shad/rust
         --ci-branch-name $CI_COMMIT_REF_NAME
-        --user-id $GITLAB_USER_ID
+        --user-id $GITLAB_USER_ID;
       fi
   timeout: 10 minutes
