@@ -1,6 +1,16 @@
+- group:    Starters
+  start:    15-09-2022 19:30
+  deadline: 29-09-2022 19:30
+  enabled: true
+  tasks:
+    - task: comm
+      score: 100
+    - task: perc
+      score: 100
+
 - group:    Test
   start:    01-08-2022 18:00
-  deadline: 13-09-2022 18:00
+  deadline: 22-09-2022 18:00
   enabled: true
   tasks:
     - task: add
